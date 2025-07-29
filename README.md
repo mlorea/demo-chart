@@ -1,4 +1,4 @@
-# Helm Chart - demo-chart
+# Helm Chart - NGINX
 
 Este chart despliega una aplicación **NGINX** parametrizada en un clúster de Kubernetes, con soporte para Ingress utilizando el host `demo.local`.
 
